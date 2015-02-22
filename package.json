@@ -21,7 +21,7 @@
       "find-and-replace:select-all"
     ]
   },
-  "repository": "https://github.com/atom/find-and-replace",
+  "repository": "https://github.com/LukaHorvat/find-and-replace-fix",
   "engines": {
     "atom": "*"
   },
