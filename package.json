@@ -1,8 +1,8 @@
 {
-  "name": "find-and-replace",
+  "name": "find-and-replace-fix",
   "main": "./lib/find",
-  "description": "Find and replace within buffers and across the project.",
-  "version": "0.157.0",
+  "description": "Identical to the find-and-replace@0.157.0 except without the ctrl-alt-f bindings",
+  "version": "0.158.0",
   "license": "MIT",
   "activationCommands": {
     "atom-workspace": [
